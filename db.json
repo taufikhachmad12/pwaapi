@@ -1,0 +1,24 @@
+{
+"products" :[
+[{"id":1,"name":"Goose, andean","catagory":"Orange"},
+{"id":2,"name":"Common palm civet","catagory":"Maroon"},
+{"id":3,"name":"Zebra, plains","catagory":"Purple"},
+{"id":4,"name":"Hawk, red-tailed","catagory":"Blue"},
+{"id":5,"name":"Thomson's gazelle","catagory":"Purple"},
+{"id":6,"name":"Pig-tailed macaque","catagory":"Red"},
+{"id":7,"name":"Phalarope, red","catagory":"Green"},
+{"id":8,"name":"Hanuman langur","catagory":"Puce"},
+{"id":9,"name":"Dragon, ornate rock","catagory":"Puce"},
+{"id":10,"name":"Galapagos tortoise","catagory":"Puce"},
+{"id":11,"name":"Water monitor","catagory":"Green"},
+{"id":12,"name":"White rhinoceros","catagory":"Blue"},
+{"id":13,"name":"Vulture, turkey","catagory":"Fuscia"},
+{"id":14,"name":"Horned lark","catagory":"Khaki"},
+{"id":15,"name":"Common long-nosed armadillo","catagory":"Fuscia"},
+{"id":16,"name":"Sheep, stone","catagory":"Puce"},
+{"id":17,"name":"Crow, pied","catagory":"Orange"},
+{"id":18,"name":"Egret, great","catagory":"Violet"},
+{"id":19,"name":"Laughing kookaburra","catagory":"Goldenrod"},
+{"id":20,"name":"Gambel's quail","catagory":"Red"}]
+]
+}
